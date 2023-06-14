@@ -2,7 +2,7 @@ name: deept_client_dio
 description: >-
   Deep Translator HTTP client based on Dio.
   Cross-platform API wrapper written in pure Dart.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/alexrintt/deept.dart
 homepage: https://github.com/alexrintt/deept.dart/tree/master/packages/deept_client_dio
 documentation: https://github.com/alexrintt/deept.dart/tree/master/packages/deept_client_dio

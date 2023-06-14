@@ -2,7 +2,7 @@ name: deept_client
 description: >-
   Deep Translator API typed interface signatures and class/data models.
   Written in pure Dart with no HTTP dependencies.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/alexrintt/deept.dart
 homepage: https://github.com/alexrintt/deept.dart/tree/master/packages/deept_client
 documentation: https://github.com/alexrintt/deept.dart/tree/master/packages/deept_client
