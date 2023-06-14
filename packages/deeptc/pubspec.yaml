@@ -17,7 +17,7 @@ environment:
   sdk: ">=2.19.2 <3.0.0"
 
 dependencies:
-  deept_client_dio: ^1.8.0
+  deept_client_dio: ^0.1.1
   dio: ^5.0.1
 
 dev_dependencies:
