@@ -1,0 +1,32 @@
+name: deept_client
+description: >-
+  Deep Translator API typed interface signatures and class/data models.
+  Written in pure Dart with no HTTP dependencies.
+version: 0.1.0
+repository: https://github.com/alexrintt/deept.dart
+homepage: https://github.com/alexrintt/deept.dart/tree/master/packages/deept_client
+documentation: https://github.com/alexrintt/deept.dart/tree/master/packages/deept_client
+issue_tracker: https://github.com/alexrintt/deept.dart/issues
+funding:
+  - https://github.com/sponsors/nidhaloff
+  - https://github.com/sponsors/alexrintt
+  - https://donate.alexrintt.io
+  - https://www.patreon.com/RiccardoCescon
+
+environment:
+  sdk: ">=2.19.2 <3.0.0"
+
+dependencies:
+  freezed_annotation: ^2.2.0
+  json_annotation: ^4.8.1
+
+dev_dependencies:
+  build_runner: any
+  build_test: any
+  dependency_validator:
+  freezed: ^2.3.2
+  json_serializable: ^6.6.1
+  lints: ^2.0.1
+  mockito: ^5.0.0
+  nock: ^1.0.0
+  test: ^1.21.0

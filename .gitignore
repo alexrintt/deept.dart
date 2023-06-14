@@ -1,0 +1,10 @@
+.vscode/
+
+pubspec_overrides.yaml
+*/**/pubspec_overrides.yaml
+
+melos*.iml
+*/**/melos*.iml
+
+.idea/
+.dart_tool/

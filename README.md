@@ -1,0 +1,1 @@
+[![Pub Version](https://img.shields.io/pub/v/deept_client_dio)](https://pub.dev/packages/deept_client_dio) [![Pub Version](https://img.shields.io/pub/points/deept_client_dio)](https://pub.dev/packages/deept_client)

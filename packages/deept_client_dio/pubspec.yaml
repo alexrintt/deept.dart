@@ -1,0 +1,37 @@
+name: deept_client_dio
+description: >-
+  Deep Translator HTTP client based on Dio.
+  Cross-platform API wrapper written in pure Dart.
+version: 0.1.0
+repository: https://github.com/alexrintt/deept.dart
+homepage: https://github.com/alexrintt/deept.dart/tree/master/packages/deept_client_dio
+documentation: https://github.com/alexrintt/deept.dart/tree/master/packages/deept_client_dio
+issue_tracker: https://github.com/alexrintt/deept.dart/issues
+funding:
+  - https://github.com/sponsors/nidhaloff
+  - https://github.com/sponsors/alexrintt
+  - https://donate.alexrintt.io
+  - https://www.patreon.com/RiccardoCescon
+
+environment:
+  sdk: ">=2.19.2 <3.0.0"
+
+dependencies:
+  deept_client: ^0.0.24
+  dio: ^5.0.1
+  freezed_annotation: ^2.2.0
+  json_annotation: ^4.8.1
+  ndjson: ^0.2.0
+  retrofit: ^4.0.1
+
+dev_dependencies:
+  build_runner: any
+  build_test: any
+  dependency_validator:
+  freezed: ^2.3.2
+  json_serializable: ^6.6.1
+  lints: ^2.0.1
+  mockito: ^5.0.0
+  nock: ^1.0.0
+  retrofit_generator: ^5.0.0
+  test: ^1.21.0
