@@ -2,7 +2,7 @@ name: deeptc
 description: >-
   The minimum amount of code you need 
   to start translating text with Deep Translator API.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/alexrintt/deept.dart
 homepage: https://github.com/alexrintt/deept.dart/tree/master/packages/deeptc
 documentation: https://github.com/alexrintt/deept.dart/tree/master/packages/deeptc
