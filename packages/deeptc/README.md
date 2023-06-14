@@ -8,7 +8,7 @@ This library provides a function that translate a given text to a given language
 
 ```yaml
 dependencies:
-  deeptc: ^0.1.1
+  deeptc: ^<latest-version>
 ```
 
 Import:
