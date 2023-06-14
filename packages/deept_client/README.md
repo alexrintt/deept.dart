@@ -10,7 +10,7 @@ This is a library that defines signatures (interface) to interacting with [Deep 
 
 **You are very unlikely to be searching for this library though, this was created to remove the HTTP library dependency from the API interface, it acts like a "platform interface" package.**
 
-Notice: This is not an unofficial project, maintained by volunteers.
+Notice: This is a unofficial project, maintained by volunteers.
 
 ## Installation
 
