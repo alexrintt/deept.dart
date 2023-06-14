@@ -1,6 +1,6 @@
-[![Pub Version](https://img.shields.io/pub/v/deept_client_dio)](https://pub.dev/packages/deept_client_dio) [![Pub Version](https://img.shields.io/pub/points/deept_client_dio)](https://pub.dev/packages/deept_client)
+[![Pub Version](https://img.shields.io/pub/v/deeptc)](https://pub.dev/packages/deeptc) [![Pub Version](https://img.shields.io/pub/points/deeptc)](https://pub.dev/packages/deeptc)
 
-See full [docs](https://pub.dev/packages/deept_client_dio).
+See full [docs](https://pub.dev/packages/deeptc).
 
 ---
 
