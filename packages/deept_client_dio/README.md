@@ -4,7 +4,7 @@
 
 This is a library for interacting with [Deep Translator API](https://deep-translator-api.azurewebsites.net/docs). It works on all platforms and exposes a collection of data classes and a extendable client interface.
 
-Notice: This is not an unofficial project, maintained by volunteers.
+Notice: This is a unofficial project, maintained by volunteers.
 
 ## Installation
 
