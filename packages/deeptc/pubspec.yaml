@@ -1,0 +1,25 @@
+name: deeptc
+description: >-
+  The minimum amount of code you need 
+  to start translating text with Deep Translator API.
+version: 0.1.0
+repository: https://github.com/alexrintt/deept.dart
+homepage: https://github.com/alexrintt/deept.dart/tree/master/packages/deeptc
+documentation: https://github.com/alexrintt/deept.dart/tree/master/packages/deeptc
+issue_tracker: https://github.com/alexrintt/deept.dart/issues
+funding:
+  - https://github.com/sponsors/nidhaloff
+  - https://github.com/sponsors/alexrintt
+  - https://donate.alexrintt.io
+  - https://www.patreon.com/RiccardoCescon
+
+environment:
+  sdk: ">=2.19.2 <3.0.0"
+
+dependencies:
+  deept_client_dio: ^1.8.0
+  dio: ^5.0.1
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.21.0
